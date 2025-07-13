@@ -1,2 +1,1 @@
-# python-darslarim
-python kursi uchun kerakli
+ushbu repezetoriyadda pythonga oid kodlar mavjud
