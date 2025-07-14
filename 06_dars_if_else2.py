@@ -119,15 +119,16 @@ buyurtmalar = ['osh', 'somsa', 'manti', 'shashlik']
 # print(f"Bizda bu mahsulotlar mavjud emas: {mavjud_emas}")
 # print(f"Bizda bu mahsulotlar bor: {mavjud}")
 
-users = ['umar', 'abdulloh', 'alisher', 'ulugbek', 'bekpolat']
+# users = ['umar', 'abdulloh', 'alisher', 'ulugbek', 'bekpolat']
 
-login = input("Yangi login tanlang: ")
+# login = input("Yangi login tanlang: ")
 
-for user in users:
-	if login in user:
-		xabar = ("Login band, login tanlang!")
-		break
-	else:
-		xabar = (f"Xush kelibsiz, {login}")
+# for user in users:
+# 	if login in user:
+# 		xabar = ("Login band, login tanlang!")
+# 		break
+# 	else:
+# 		xabar = (f"Xush kelibsiz, {login}")
 
-print(xabar)
+# print(xabar)
+
